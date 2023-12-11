@@ -44,7 +44,7 @@ Feb 21
   : [D8](#), [W8](#)
 
 Feb 28
-: Business Things
+: [Business Things](../topics/9-business)
   : [D9](#), [W9](#)
 
 Mar 6
