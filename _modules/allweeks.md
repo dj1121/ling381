@@ -24,7 +24,7 @@ Jan 17
   : [D3](#), [W3](#)
 
 Jan 24
-: [Don’t Touch The Keyboard Yet](../topics/4-lessismore)
+: [Don’t Touch The Keyboard Yet](../topics/4-keyboard)
   : [D4](#), [W4](#)
 
 Jan 31
