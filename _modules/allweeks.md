@@ -13,7 +13,7 @@ new words from the materials when writing your assignment.
 
 Jan 3
 : [Introduction](../topics/1-introduction)
-  : [Slides](#), [HW1](#)
+  : [Slides](#), [HW1](../homework/hw1)
 
 Jan 10
 : [Knowing Your Audience](../topics/2-audience)
