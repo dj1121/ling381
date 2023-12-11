@@ -50,17 +50,6 @@ Our weekly meetings will have roughly the following structure:
 3. Group writing activity
 4. Feedback and discussion
 
-## Assignments
-
-Every week, you will have **two** homework assignments to turn in on Canvas:
-
-1. Discussion post (~250 words)
-2. Writing Assignment (~300 words)
-
-Each assignment will be focused on the topic of the week, and some relevant reading material
-may be attached. You will be expected to use at least **three** new words from the materials when
-writing your assignment.
-
 ## Registration
 
 The course is open to international graduate students, visiting scholars, research
