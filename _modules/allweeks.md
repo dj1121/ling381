@@ -7,7 +7,7 @@ Every week, you will have **two** homework assignments to turn in on Canvas:
 1. Discussion post (~250 words)
 2. Writing Assignment (~300 words)
 
-All homework is due Tuesday night before each class. Each assignment will be focused on the topic of the week, 
+All homework is due Tuesday night before each class. For example, D1/W1 are due on the night of January 9th. Each assignment will be focused on the topic of the week, 
 and some relevant reading material may be attached. You will be expected to use at least **three** 
 new words from the materials when writing your assignment.
 
