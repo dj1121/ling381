@@ -50,12 +50,6 @@ Our weekly meetings will have roughly the following structure:
 3. Group writing activity
 4. Feedback and discussion
 
-## Registration
-
-The course is open to international graduate students, visiting scholars, research
-associates, faculty, and staff of Northwestern University. Auditing is permitted, though
-priority is given to graduate students who are officially registered for credit.
-
 ## Assignments
 
 Every week, you will have **two** homework assignments to turn in on Canvas:
@@ -66,6 +60,12 @@ Every week, you will have **two** homework assignments to turn in on Canvas:
 Each assignment will be focused on the topic of the week, and some relevant reading material
 may be attached. You will be expected to use at least **three** new words from the materials when
 writing your assignment.
+
+## Registration
+
+The course is open to international graduate students, visiting scholars, research
+associates, faculty, and staff of Northwestern University. Auditing is permitted, though
+priority is given to graduate students who are officially registered for credit.
 
 ## University Policies
 
