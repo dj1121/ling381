@@ -20,8 +20,3 @@ needs of nonnative speakers of English in developing their writing skills. We fo
 the mechanics of English sentences and paragraphs as well as the local and global
 discourse structure of written texts.
 
-A workshop atmosphere is encouraged in the classroom - all students contribute to a constructive criticism of their classmates' work.
-Writing assignments encourage you to focus on your weaknesses and extend your writing practice into your fields of expertise and interest. 
-You will also receive explicit constructive criticism from the instructor on regular electronic submissions. You must demonstrate active 
-participation in the course and progress towards proficiency in written English to achieve a satisfactory grade in the course.
-
