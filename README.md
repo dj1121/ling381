@@ -1,7 +1,7 @@
 ---
 layout: home
 title: LING 381
-nav_exclude: true
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
