@@ -9,6 +9,7 @@ seo:
 ---
 
 # LING 381 - Academic Writing (ELP)
+{:.no_toc}
 
 **Devin Johnson**
 
@@ -20,6 +21,7 @@ needs of nonnative speakers of English in developing their writing skills. We fo
 the mechanics of English sentences and paragraphs as well as the local and global
 discourse structure of written texts.
 
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
