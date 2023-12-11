@@ -1,6 +1,6 @@
 ---
 layout: home
-title: LING 381
+title: About
 nav_exclude: false
 permalink: /:path/
 seo:
