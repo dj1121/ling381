@@ -15,4 +15,4 @@ coming to class.
 - What makes academic writing “academic”?
 - School and freewriting
 
-## Reading / Watching
+## Reading
