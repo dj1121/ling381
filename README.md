@@ -8,7 +8,7 @@ seo:
   name: LING 381
 ---
 
-# Academic Writing for Nonnative English Speakers
+## Academic Writing for Nonnative English Speakers
 {:.no_toc}
 
 **Devin Johnson**
