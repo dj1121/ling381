@@ -14,32 +14,32 @@ Jan 10
 
 Jan 17
 : Less Is More
-  : [D1](#), [W1](#)
+  : [D3](#), [W3](#)
 
 Jan 24
 : Don’t Touch The Keyboard Yet
-  : [D2](#), [W2](#)
+  : [D4](#), [W4](#)
 
 Jan 31
 : The Internet Is Your Friend (Usually)
-  : [D1](#), [W1](#)
+  : [D5](#), [W5](#)
 
 Feb 7
 : TBD
-  : [D2](#), [W2](#)
+  : [D6](#), [W6](#)
 
 Feb 14
 : TBD
-  : [D2](#), [W2](#)
+  : [D7](#), [W7](#)
 
 Feb 21
 : TBD
-  : [D1](#), [W1](#)
+  : [D8](#), [W8](#)
 
 Feb 28
 : Business Things
-  : [D2](#), [W2](#)
+  : [D9](#), [W9](#)
 
 Mar 6
 : Your Choice
-  : [D1](#), [W1](#)
+  : [D10](#), [W10](#)
