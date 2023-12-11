@@ -8,7 +8,7 @@ seo:
   name: LING 381
 ---
 
-# LING 381 - Academic Writing for Nonnative English Speakers
+# LING 381 - Academic Writing (ELP)
 
 **Devin Johnson**
 
