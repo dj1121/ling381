@@ -43,7 +43,7 @@ You should expect to be sharing your writing with other students and giving/rece
 of weekly writing assignments and active participation.
 
 Our weekly meetings will have roughly the following structure:
-1. Writing warmup
+1. Freewrite warmup
 2. Review and new topic lecture
 3. Group writing activity
 4. Feedback and discussion
