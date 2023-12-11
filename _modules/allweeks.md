@@ -1,5 +1,5 @@
 ---
-title: Week 1-2
+title:
 ---
 
 Jan 3
