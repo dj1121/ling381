@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction
+title: Topic 1
 nav_exclude: true
 description: Topic 1 Description
 ---
