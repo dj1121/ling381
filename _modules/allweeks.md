@@ -16,19 +16,19 @@ Jan 3
   : [D1](#), [W1](#)
 
 Jan 10
-: Knowing Your Audience
+: [Knowing Your Audience](../topics/2-audience)
   : [D2](#), [W2](#)
 
 Jan 17
-: Less Is More
+: [Less Is More](../topics/3-lessismore)
   : [D3](#), [W3](#)
 
 Jan 24
-: Don’t Touch The Keyboard Yet
+: [Don’t Touch The Keyboard Yet](../topics/4-lessismore)
   : [D4](#), [W4](#)
 
 Jan 31
-: The Internet Is Your Friend (Usually)
+: [The Internet Is Your Friend (Usually)](../topics/5-internet)
   : [D5](#), [W5](#)
 
 Feb 7
