@@ -13,7 +13,7 @@ In ~300 words, write a discussion post [here](#) which answers (at least) the fo
 # Writing Assignment
 In ~500 words, answer the following question:
 
-**What makes a piece of writing good? **
+**What makes a piece of writing good?**
 
 Express your opinion to me and give some supporting arguments for your opinion.
 Turn in your assignment [here](#).
