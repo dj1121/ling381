@@ -40,9 +40,6 @@ Our weekly meetings will have roughly the following structure:
 The course is open to international graduate students, visiting scholars, research
 associates, faculty, and staff of Northwestern University. Auditing is permitted, though
 priority is given to graduate students who are officially registered for credit.
-			 
-Attendance policy for auditors: two absences without notice in a row OR three absences with or without notice throughout the quarter lead to a drop. Spots are offered to other auditors until the official drop date. 
-Instructor consent is required. Students must complete an online form from English Language Programs in order to be eligible for the class and obtain a permission number. Contact elp@northwestern.edu for specific registration instructions.
 
 ## Assignments
 
