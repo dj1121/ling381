@@ -17,5 +17,5 @@ In ~500 words, answer the following question:
 
 **What makes a piece of writing good?**
 
-Express your opinion to me and give some supporting arguments for your opinion.
+Express any opinion to me (even if you don't agree with it) and give some supporting arguments for your opinion.
 Turn in your assignment [here](#).
