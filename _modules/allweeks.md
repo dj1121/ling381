@@ -13,40 +13,40 @@ new words from the materials when writing your assignment.
 
 Jan 3
 : [Introduction](../topics/1-introduction)
-  : [Slides](#), [HW1](../homework/hw1)
+  : [HW1](../homework/hw1)
 
 Jan 10
 : [Knowing Your Audience](../topics/2-audience)
-  : [Slides](#), [HW2](#)
+  : [HW2](#)
 
 Jan 17
 : [Less Is More](../topics/3-lessismore)
-  : [Slides](#), [HW3](#)
+  : [HW3](#)
 
 Jan 24
 : [Don’t Touch The Keyboard Yet](../topics/4-keyboard)
-  : [Slides](#), [HW4](#)
+  : [HW4](#)
 
 Jan 31
 : [The Internet Is Your Friend (Usually)](../topics/5-internet)
-  : [Slides](#), [HW5](#)
+  : [HW5](#)
 
 Feb 7
 : TBD
-  : [Slides](#), [HW6](#)
+  : [HW6](#)
 
 Feb 14
 : TBD
-  : [Slides](#), [HW7](#)
+  : [HW7](#)
 
 Feb 21
 : TBD
-  : [Slides](#), [HW8](#)
+  : [HW8](#)
 
 Feb 28
 : [Business Things](../topics/9-business)
-  : [Slides](#), [HW9](#)
+  : [HW9](#)
 
 Mar 6
 : Your Choice
-  : [Slides](#), [HW10](#)
+  : [HW10](#)
