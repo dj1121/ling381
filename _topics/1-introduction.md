@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topic 1
-nav_exclude: true
+nav_exclude: false
 description: Topic 1 Description
 ---
 
