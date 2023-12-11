@@ -1,6 +1,6 @@
 ---
 layout: page
-nav_exclude: true
+nav_exclude: false
 ---
 
 # Introduction
