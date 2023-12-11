@@ -1,3 +1,10 @@
+---
+layout: page
+title: Introduction
+nav_exclude: true
+description: Topic 1 Description
+---
+
 # Introduction
 
 This week is our introduction. We will get to know each other a bit and figure out
