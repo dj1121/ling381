@@ -10,8 +10,9 @@ seo:
 
 # LING 381 - Academic Writing for Nonnative English Speakers
 
-- Instructor: Devin Johnson
-- Wednesdays, TIME, PLACE
+**Devin Johnson**
+
+**Wednesdays, TIME, PLACE**
 
 One of the most important communication skills necessary for a successful academic
 career is the ability to write effectively in a variety of genres. This course addresses the
