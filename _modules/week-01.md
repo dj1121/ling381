@@ -9,3 +9,4 @@ Jan 3
 Jan 10
 : Knowing Your Audience
   : [D2](#),[W2](#)
+: **D1/W1 Due**{: .label .label-red }
