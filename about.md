@@ -18,7 +18,7 @@ description: >-
 
 ## Learning Objectives
 
-- Describe key features of rhetorical structure of academic written English.-
+- Describe key features of rhetorical structure of academic written English.
 - Identify your specific strengths and weaknesses when using written English.
 - Draft, revise, and edit a piece of writing appropriate for an American academic audience.
 - Develop clarity, accuracy, and effectiveness in your writing.
