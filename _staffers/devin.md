@@ -3,7 +3,7 @@ name: Devin Johnson
 role: Instructor
 email: devinjohnson2026@u.northwestern.edu
 website: https:/dj1121.github.io
-photo: devin.jpg
+photo: devin.jpeg
 meta:
   Office Hours: By appointment (Zoom)
 ---
