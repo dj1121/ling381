@@ -1,7 +1,8 @@
 # Introduction
 
 This week is our introduction. We will get to know each other a bit and figure out
-what it means for us to write "academically".
+what it means for us to write "academically". Please complete this [survey](#) before
+coming to class.
 
 ## Main Ideas
 - Who am I and who are you? 
