@@ -12,7 +12,7 @@ and some relevant reading material may be attached. You will be expected to use 
 new words from the materials when writing your assignment.
 
 Jan 3
-: [Introduction](../_topics/1-introduction.md)
+: [Introduction](../topics/1-introduction.md)
   : [D1](#), [W1](#)
 
 Jan 10
