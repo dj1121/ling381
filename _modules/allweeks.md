@@ -5,7 +5,7 @@ title:
 All homework is due Tuesday night before each class.
 
 Jan 3
-: [Introduction](ling381/week-descriptions/introduction.md)
+: [Introduction](ling381/_topics/1-introduction.md)
   : [D1](#), [W1](#)
 
 Jan 10
