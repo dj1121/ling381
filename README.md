@@ -8,7 +8,7 @@ seo:
   name: LING 381
 ---
 
-![Autumn in New York](assets/images/cover.jpg)
+![Autumn in New York](assets/images/cover.jpg){: width="50%"}
 
 ## Academic Writing for Nonnative English Speakers
 {:.no_toc}
