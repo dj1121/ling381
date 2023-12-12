@@ -15,4 +15,4 @@ job searches and related matters on your own.
 - Personal Website
 - CV 
 
-## Reading
+## Resources

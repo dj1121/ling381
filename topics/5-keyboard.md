@@ -16,4 +16,4 @@ In this week, we will practice making a plan for your writing.
 - Outlining and flow
 - Remember the argument you’re making
 
-## Reading
+## Resources

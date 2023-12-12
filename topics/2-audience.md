@@ -14,4 +14,4 @@ and incorporate them into your own voice.
 - Knowing your field’s lingo
 - What is persuasive to your audience?
 
-## Reading
+## Resources

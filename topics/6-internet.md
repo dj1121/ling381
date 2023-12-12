@@ -13,4 +13,4 @@ tools carefully to help you write.
 - Dictionaries, context, usage
 - Other NLP tools
 
-## Reading
+## Resources

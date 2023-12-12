@@ -13,4 +13,4 @@ This week, we will learn about using less words to convey more meaning.
 - Concise meaning making
 - Cleaning things up
 
-## Reading
+## Resources

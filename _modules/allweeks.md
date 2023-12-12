@@ -22,15 +22,15 @@ Jan 17
   : [HW3](#)
 
 Jan 24
-: [Don’t Touch The Keyboard Yet](../topics/4-keyboard)
+: [Abstracts](../topics/4-abstracts)
   : [HW4](#)
 
 Jan 31
-: [The Internet Is Your Friend (Usually)](../topics/5-internet)
+: [Don’t Touch The Keyboard Yet](../topics/5-keyboard)
   : [HW5](#)
 
 Feb 7
-: TBD
+: [The Internet Is Your Friend (Usually)](../topics/65-internet)
   : [HW6](#)
 
 Feb 14
@@ -46,5 +46,5 @@ Feb 28
   : [HW9](#)
 
 Mar 6
-: Your Choice
+: TBD
   : [HW10](#)

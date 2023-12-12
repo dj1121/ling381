@@ -10,9 +10,8 @@ what it means for us to write "academically". Please complete this [survey](#) b
 coming to class.
 
 ## Main Ideas
-- Who am I and who are you? 
 - Why do we write?
 - What makes academic writing “academic”?
 - School and freewriting
 
-## Reading
+## Resources
