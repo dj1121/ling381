@@ -11,6 +11,8 @@ seo:
 ## Academic Writing for Nonnative English Speakers
 {:.no_toc}
 
+![Autumn in New York](assets/images/cover.jpg)
+
 **Devin Johnson**<br>
 **Wednesdays, TIME, PLACE**
 
