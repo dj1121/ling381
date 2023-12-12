@@ -15,36 +15,36 @@ Jan 3
 
 Jan 10
 : [Knowing Your Audience](../topics/2-audience)
-  : [HW2](#)
+  : [HW2](../homework/hw2)
 
 Jan 17
 : [Less Is More](../topics/3-lessismore)
-  : [HW3](#)
+  : [HW3](../homework/hw3)
 
 Jan 24
 : [Abstracts](../topics/4-abstracts)
-  : [HW4](#)
+  : [HW4](../homework/hw4)
 
 Jan 31
 : [Don’t Touch The Keyboard Yet](../topics/5-keyboard)
-  : [HW5](#)
+  : [HW5](../homework/hw5)
 
 Feb 7
 : [The Internet Is Your Friend (Usually)](../topics/65-internet)
-  : [HW6](#)
+  : [HW6](../homework/hw6)
 
 Feb 14
 : TBD
-  : [HW7](#)
+  : [HW7](../homework/hw7)
 
 Feb 21
 : TBD
-  : [HW8](#)
+  : [HW8](../homework/hw8)
 
 Feb 28
 : [Business Things](../topics/9-business)
-  : [HW9](#)
+  : [HW9](../homework/hw9)
 
 Mar 6
 : TBD
-  : [HW10](#)
+  : [HW10](../homework/hw10)
