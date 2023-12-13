@@ -14,7 +14,8 @@ seo:
 {:.no_toc}
 
 **Instructor: Devin Johnson (devinjohnson2026@u.northwestern.edu)**<br>
-**Wednesdays, TIME, PLACE**
+**Wednesdays, TIME, PLACE**<br>
+**Office Hours: By Email Appointment**
 
 One of the most important communication skills necessary for a successful academic
 career – and many other careers, really – is the ability to write effectively. This course addresses the
