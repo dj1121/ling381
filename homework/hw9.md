@@ -13,10 +13,10 @@ other classmate posts and give them feedback about what they did well and what t
 
 ## Writing Assignment
 This week, we will give feedback on each other's grant proposals. Go into Canvas and view the partner
-I've assigned to you. Your job is to give comments on their grant proposal. You can focus your comments
-on the following aspects:
+I've assigned to you. Your job is to give comments on their grant proposal (via the PDF commenting tool in Canvas).
+Here are some ideas for comments:
 
-1. Purpose: Was the proposed research stated?
+1. Purpose: Is the research stated early on?
 2. Importance: What makes this research important?
 3. Clarity: Is the writing style clear and concise? Are there areas that are unclear?
 4. Other: Do you have any other comments?
