@@ -13,7 +13,7 @@ seo:
 ## Academic Writing for Nonnative English Speakers
 {:.no_toc}
 
-**Instructor: Devin Johnson**<br>
+**Instructor: Devin Johnson (devinjohnson2026@u.northwestern.edu)**<br>
 **Wednesdays, TIME, PLACE**
 
 One of the most important communication skills necessary for a successful academic
