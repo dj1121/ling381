@@ -13,7 +13,7 @@ seo:
 ## Academic Writing for Nonnative English Speakers
 {:.no_toc}
 
-**Devin Johnson**<br>
+**Instructor: Devin Johnson**<br>
 **Wednesdays, TIME, PLACE**
 
 One of the most important communication skills necessary for a successful academic
