@@ -5,6 +5,10 @@ nav_exclude: true
 
 # Homework 9
 
+## Weekly Journal
+Write ~250 words on any topic. 
+This is a chance to practice things we've learned in class on topics of your choice.
+
 ## Discussion Post
 Spend some time updating a piece of your professional profile. You can choose which is most important to you.
 This could be your LinkedIn bio, your CV, an email you want to send, your personal website, etc. 

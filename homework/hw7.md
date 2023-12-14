@@ -5,6 +5,10 @@ nav_exclude: true
 
 # Homework 7
 
+## Weekly Journal
+Write ~250 words on any topic. 
+This is a chance to practice things we've learned in class on topics of your choice.
+
 ## Discussion Post
 First, have a watch of [this video](https://www.youtube.com/watch?v=F1U26PLiXjM). 
 Now, your job is to pretend that you are Uri Alon and submit an abstract for your talk to the organizers of TED. 

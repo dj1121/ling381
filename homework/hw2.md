@@ -5,6 +5,10 @@ nav_exclude: true
 
 # Homework 2
 
+## Weekly Journal
+Write ~250 words on any topic. 
+This is a chance to practice things we've learned in class on topics of your choice.
+
 ## Discussion Post
 In at least ~300 words, write a discussion post [here](#) which answers the following questions:
 

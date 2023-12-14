@@ -5,6 +5,10 @@ nav_exclude: true
 
 # Homework 5
 
+## Weekly Journal
+Write ~250 words on any topic. 
+This is a chance to practice things we've learned in class on topics of your choice.
+
 ## Discussion Post
 Consider a question from your field and a hypothesis related to it. This could be
 the same hypothesis you wrote about last week, if you want. Now, consider how you would

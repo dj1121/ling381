@@ -5,6 +5,10 @@ nav_exclude: true
 
 # Homework 3
 
+## Weekly Journal
+Write ~250 words on any topic. 
+This is a chance to practice things we've learned in class on topics of your choice.
+
 ## Discussion Post
 This week, I'd like you to select an interesting [Opinion article](https://dailynorthwestern.com/opinion/) from the Daily Northwestern and
 do the following:
