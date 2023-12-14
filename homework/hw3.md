@@ -7,7 +7,8 @@ nav_exclude: true
 
 ## Weekly Journal
 Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice.
+This is a chance to practice things we've learned in class on topics of your choice. Turn in your writing
+[here](#).
 
 ## Discussion Post
 This week, I'd like you to select an interesting [Opinion article](https://dailynorthwestern.com/opinion/) from the Daily Northwestern and

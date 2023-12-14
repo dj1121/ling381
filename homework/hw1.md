@@ -7,7 +7,8 @@ nav_exclude: true
 
 ## Weekly Journal
 Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice.
+This is a chance to practice things we've learned in class on topics of your choice. Turn in your writing
+[here](#).
 
 ## Discussion Post
 In ~300 words, write a discussion post [here](#) which answers (at least) the following three questions:

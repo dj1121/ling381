@@ -7,7 +7,8 @@ nav_exclude: true
 
 ## Weekly Journal
 Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice.
+This is a chance to practice things we've learned in class on topics of your choice. Turn in your writing
+[here](#).
 
 ## Discussion Post
 First, have a watch of [this video](https://www.youtube.com/watch?v=F1U26PLiXjM). 
