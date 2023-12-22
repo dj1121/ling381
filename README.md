@@ -10,11 +10,11 @@ seo:
 
 ![Autumn in New York](assets/images/cover.jpg){: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-## Academic Writing for Graduate Students
+## Written English for Nonnative Speakers
 {:.no_toc}
 
 **Instructor: Devin Johnson (devinjohnson2026@u.northwestern.edu)**<br>
-**Wednesdays, TIME, PLACE**<br>
+**Wednesdays, 1700-1820, Kresge 2325**<br>
 **Office Hours: By Email Appointment**
 
 One of the most important communication skills necessary for a successful academic career – and many other careers – is the ability to write effectively. 

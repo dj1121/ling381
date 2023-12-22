@@ -9,5 +9,3 @@ to know before the course ends?
 
 ## Main Ideas
 - ??
-
-## Resources

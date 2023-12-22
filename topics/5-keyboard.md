@@ -14,5 +14,3 @@ In this week, we will practice making a plan for your writing.
 - PPPPPPP (The 7 Ps)
 - The parts of a research paper
 - Remember the argument you’re making
-
-## Resources

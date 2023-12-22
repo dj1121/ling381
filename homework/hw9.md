@@ -13,7 +13,7 @@ This is a chance to practice things we've learned in class on topics of your cho
 ## Discussion Post
 Spend some time updating a piece of your professional profile. You can choose which is most important to you.
 This could be your LinkedIn bio, your CV, an email you want to send, your personal website, etc. 
-Then, take that piece of writing and post it to the discussion [here](#). FInally, comment on at least **two** 
+Then, take that piece of writing and post it to the discussion [here](#). Finally, comment on at least **two** 
 other classmate posts and give them feedback about what they did well and what they could improve.
 
 ## Writing Assignment

@@ -14,5 +14,3 @@ job searches and related matters on your own.
 - Emails
 - Personal Website
 - CV 
-
-## Resources

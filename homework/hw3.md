@@ -11,7 +11,7 @@ This is a chance to practice things we've learned in class on topics of your cho
 [here](#).
 
 ## Discussion Post
-This week, I'd like you to select an interesting [Opinion article](https://dailynorthwestern.com/opinion/) from the Daily Northwestern and
+This week, I'd like you to select an interesting [opinion article](https://dailynorthwestern.com/opinion/) from the Daily Northwestern and
 do the following:
 
 1. Summarize the writer's argument.

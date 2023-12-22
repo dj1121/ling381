@@ -13,5 +13,3 @@ and incorporate them into your own voice.
 - Describing your work
 - Knowing your field’s lingo
 - What is persuasive to your audience?
-
-## Resources

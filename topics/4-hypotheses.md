@@ -13,5 +13,3 @@ and let the rest of the paper flow around it. This week, we will practice statin
 - Deductive, inductive, and abductive methods
 - Wording your hypothesis
 - Remembering to explore alternatives
-
-## Resources

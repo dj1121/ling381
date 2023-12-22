@@ -11,5 +11,3 @@ writing abstracts, which will be our next topic.
 ## Main Ideas
 - What makes a good abstract?
 - Keeping it short but meaningful
-
-## Resources

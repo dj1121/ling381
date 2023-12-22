@@ -13,5 +13,3 @@ all of the things we've learned. Our goal will be to practice writing a proposal
 - Planning the proposal
 - Level of technicality
 - Purpose/Feasability
-
-## Resources

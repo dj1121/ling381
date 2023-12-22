@@ -12,5 +12,3 @@ tools carefully to help you write.
 - ChatGPT
 - Dictionaries, context, usage
 - Other NLP tools
-
-## Resources
