@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   # Devin Johnson:
-  #   - 'https://kevinl.info'
+  #   - ''
   Canvas:
-    - 'https://canvas.northwestern.edu/'
+    - 'https://canvas.northwestern.edu/courses/207263'
 footer_content:
 
 # Collections for website data
