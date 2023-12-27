@@ -7,13 +7,12 @@ nav_exclude: true
 
 ## Weekly Journal
 Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice. Turn in your writing
-[here](#).
+This is a chance to practice things we've learned in class on topics of your choice.
 
 ## Discussion Post
 The discussion this week is **optional**, but I highly recommend it. In the discussion, I would like you to ask your classmates for
 advice on writing your grant proposal. For example, you might want to ask what words would sound best or if
-you made a concept clear enough. Feel free to post as much as you want and help out your classmates, too. The thread is [here](#).
+you made a concept clear enough. Feel free to post as much as you want and help out your classmates, too.
 
 ## Writing Assignment
 This week, we will write a draft for the TGS GRG. I imagine some of you may want to apply for

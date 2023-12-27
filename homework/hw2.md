@@ -7,11 +7,10 @@ nav_exclude: true
 
 ## Weekly Journal
 Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice. Turn in your writing
-[here](#).
+This is a chance to practice things we've learned in class on topics of your choice.
 
 ## Discussion Post
-In at least ~300 words, write a discussion post [here](#) which answers the following questions:
+In at least ~300 words, write a discussion post which answers the following questions:
 
 1. What is your research about? (Remember: We don't know about it.)
 2. What makes your research interesting to **you**?
@@ -33,4 +32,4 @@ Then, answer the following:
 4. Compare and contrast your writing to the papers in your field. How are they similar/different?
 5. What can you do in your next paper to be more persuasive? (give specific examples)
 
-Turn in your assignment [here](#).
+
