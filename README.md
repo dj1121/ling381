@@ -60,6 +60,8 @@ Weekly homework is split into three parts:
 
 The course is open to international PhD students, postdocs, and TGS master's students.
 
+---
+
 ## Northwestern University Policies
 
 ### Academic Integrity
