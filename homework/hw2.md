@@ -10,7 +10,7 @@ Write ~250 words on any topic.
 This is a chance to practice things we've learned in class on topics of your choice.
 
 ## Discussion Post
-Explain your research to me in five different levels. For examples, take a look on Youtube
+Explain your research in five different levels. For examples, take a look on Youtube
 at videos like [this](https://www.youtube.com/watch?v=fkIvmfqX-t0). The levels you should explain at are:
 
 1. Child
