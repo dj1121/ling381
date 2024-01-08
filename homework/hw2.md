@@ -10,12 +10,15 @@ Write ~250 words on any topic.
 This is a chance to practice things we've learned in class on topics of your choice.
 
 ## Discussion Post
-In at least ~300 words, write a discussion post which answers the following questions:
+Explain your research to me in five different levels. For examples, take a look on Youtube
+at videos like [this](https://www.youtube.com/watch?v=fkIvmfqX-t0). The levels you should explain at are:
 
-1. What is your research about? (Remember: We don't know about it.)
-2. What makes your research interesting to **you**?
-3. What makes it interesting to people **in** your field?
-4. What might make it interesting to people **outside** your field?
+1. Child
+2. Teenager
+3. College student (in any field)
+4. Graduate student (in any field)
+5. Expert in your field
+
 
 ## Writing Assignment
 In this assignment, the idea is to understand how researchers in your field **persuade** with their writing.
