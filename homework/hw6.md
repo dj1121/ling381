@@ -5,9 +5,9 @@ nav_exclude: true
 
 # Homework 6
 
-## Weekly Journal
-Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice.
+## Weekly Journal (Optional)
+You can write anything you want and ask me questions here. I will give corrections for 
+what you write. This is an oppprtunity to practice things you want to practice.
 
 ## Discussion Post
 For this assignment, you will be using ChatGPT to write on any topic of your interest. ChatGPT is a powerful tool that can help you generate ideas and provide feedback on your writing. As we saw in class, this is a tool that can be used as an aid to your creative output. Seldom can you simply cut and paste the results from your ChatGPT exploration.

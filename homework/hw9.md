@@ -5,9 +5,9 @@ nav_exclude: true
 
 # Homework 9
 
-## Weekly Journal
-Write ~250 words on any topic. 
-This is a chance to practice things we've learned in class on topics of your choice.
+## Weekly Journal (Optional)
+You can write anything you want and ask me questions here. I will give corrections for 
+what you write. This is an oppprtunity to practice things you want to practice.
 
 ## Discussion Post
 Spend some time updating a piece of your professional profile. You can choose which is most important to you.
