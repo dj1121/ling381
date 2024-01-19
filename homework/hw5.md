@@ -27,6 +27,4 @@ important. Always remember that each section has a **purpose**, so you want to m
 is and how everything fits together.
 
 ## Writing Assignment
-We've talked a lot about structure these past weeks. For this assignment, I want to have you enjoy some freedom and creativity.
-Write ~200 words on any topic you would like. While you're writing, give some thought to **your own voice** and disregard the rules
-you've learned in the past.
+TBD
