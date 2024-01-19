@@ -11,3 +11,7 @@ I recommend you be aware of what hypotheses/solutions you are entertaining, as t
 - Research processes
 - Wording your hypothesis/solutions
 - Remembering to explore alternatives
+
+## Resources
+- [The Need For Hypotheses in Informatics](https://www.inf.ed.ac.uk/teaching/courses/irm/notes/hypotheses.html)
+- [Hypotheses in Engineering Design Research](https://web.eecs.umich.edu/~prabal/teaching/eecs582-w12/readings/antonsson87hypothesis.pdf)
