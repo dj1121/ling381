@@ -17,7 +17,7 @@ you made a concept clear enough. Feel free to post as much as you want and help 
 ## Writing Assignment
 This week, we will write a draft for the TGS GRG. I imagine some of you may want to apply for
 this grant (or a similar one) during your time at Northwestern. Use the directions specified by TGS
-[here](https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html
+[here](https://www.tgs.northwestern.edu/funding/fellowships-and-grants/internal-fellowships-grants/graduate-research-grant.html)
 to write it, and pay specific attention to the "Review process" section. The proposal should be at most five pages, double spaced.
 You **do not** need to turn in the other items like CV, itemized budget, etc.
 
