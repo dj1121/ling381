@@ -27,4 +27,7 @@ important. Always remember that each section has a **purpose**, so you want to m
 is and how everything fits together.
 
 ## Writing Assignment
-TBD
+Pick a section of a paper that you have written in the past (intro, literature, etc.). Then, review your writing according to
+the criteria we discussed in class. For example, if you picked an intro, you should try to find the following elements: 1) the problem,
+1) why the problem is important, 3) the solution/hypothesis/etc. Discuss hoe well you think you met the goals for whatever section
+2) you picked. Refer to the slides posted on canvas to see criteria for the other sections.
