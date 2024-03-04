@@ -10,7 +10,7 @@ You can write anything you want and ask me questions here. I will give correctio
 what you write. This is an oppprtunity to practice things you want to practice.
 
 ## Discussion Post
-None.
+None - we will talk in class.
 
 ## Writing Assignment
 Prepare a piece of writing that you want to bring to class. For example, if you have a paper that
