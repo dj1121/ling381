@@ -1,39 +1,99 @@
 ---
 layout: home
-title: Just the Class
-nav_exclude: true
+title: About
+nav_exclude: false
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: LING 381
 ---
 
-# Just the Class
+![Autumn in New York](assets/images/cover.jpg){: width="75%" style="display:block; margin-left:auto; margin-right:auto"}
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Written English for Nonnative Speakers
+{:.no_toc}
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**Instructor: Devin Johnson (devinjohnson2026@u.northwestern.edu)**<br>
+**Wednesdays, 1700-1820, Kresge 2325**<br>
+**Office Hours: By Email Appointment**
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+One of the most important communication skills necessary for a successful academic career – and many other careers – is the ability to write effectively. 
+This course addresses the needs of nonnative speakers of English in developing their writing skills, and we focus on the mechanics of English sentences as well as the local
+and global discourse structure of written texts. I encourage a workshop atmosphere where student work is reviewed and discussed by the class. 
+I also provide direct feedback on regular writing assignments. The assignments encourage you to focus on your skills as you write about your research and personal interests.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+---
 
-## Getting Started
+## Table of contents
+{: .no_toc .text-delta }
 
-Getting started with Just the Class is simple.
+1. TOC
+{:toc}
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+---
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+## Learning Objectives
 
-### Local development environment
+- Describe key features of rhetorical structure of academic written English.
+- Identify your specific strengths and weaknesses when using written English.
+- Draft, revise, and edit a piece of writing appropriate for an American academic audience.
+- Develop clarity, accuracy, and effectiveness in your writing.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+## Course Format
+
+This course follows a **workshop** format and meets only **once per week**. This means that most work will be collaborative and student led, with minimal lecturing. There
+will also be a considerable amount of homework assignments. You should expect to be sharing your writing with other students and giving/receiving feedback
+from me and other students. Your grade will be based upon completion of weekly writing assignments and active participation.
+
+Our weekly meetings will have roughly the following structure:
+1. Freewrite warmup
+2. Review and new topic lecture
+3. Group writing activity
+4. Feedback and discussion
+
+Weekly homework is split into three parts:
+1. Journal
+2. Discussion Post
+3. Writing Assignment
+
+## Registration
+
+The course is open to international PhD students, postdocs, and TGS master's students.
+
+---
+
+## Northwestern University Policies
+
+### Academic Integrity
+Students in this course are required to comply with the policies found in the booklet, "Academic Integrity at Northwestern University: A Basic Guide". All papers submitted for credit in this course must be submitted electronically unless otherwise instructed by the professor. Your written work may be tested for plagiarized content. For details regarding academic integrity at Northwestern or to download the guide, visit: https://www.northwestern.edu/provost/policies-procedures/academic-integrity/index.html
+
+### Accessibility
+Northwestern University is committed to providing the most accessible learning environment as possible for students with disabilities. Should you anticipate or experience disability-related barriers in the academic setting, please contact AccessibleNU to move forward with the university’s established accommodation process (e: accessiblenu@northwestern.edu; p: 847-467-5530). If you already have established accommodations with AccessibleNU, please let me know as soon as possible, preferably within the first two weeks of the term, so we can work together to implement your disability accommodations. Disability information, including academic accommodations, is confidential under the Family Educational Rights and Privacy Act.
+
+### Religious Observances
+Northwestern is committed to fostering an academic community respectful and welcoming of persons from all backgrounds.  To that end, the policy on academic accommodations for religious holidays stipulates that students will not be penalized for class absences to observe religious holidays. If you will observe a religious holiday during a class meeting, scheduled exam, or assignment deadline, please let me know as soon as possible, preferably within the first two week of class. If exams or assignment deadlines on the syllabus fall on religious holidays you observe, please reach out so that we can discuss that coursework.
+
+### Diversity, Equity, and Inclusion
+Instructors are encouraged to consider including a statement about diversity, equity, and inclusion (DEI) in their course syllabi. By including a DEI statement, instructors can help establish a welcoming tone and demonstrate what they value in the learning environment. For more information and examples, go to the Searle Center for Advancing Learning and Teaching’s resources on creating inclusive learning environments.
+
+### Course Details Subject to Change
+Please note that the specifics of this course syllabus are subject to change in the case of unforeseen circumstances. Instructors will notify students of any changes as soon as possible. Students will be responsible for abiding by the changes.
+
+### Exceptions to Class Modality
+Class sessions for this course will occur in person. Individual students will not be granted permission to attend remotely except as the result of an Americans with Disabilities Act (ADA) accommodation as determined by AccessibleNU. 
+
+### Prohibition of Recording
+Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNU. Unauthorized use of classroom recordings – including distributing or posting them – is also prohibited. Under the University’s Copyright Policy, faculty own the copyright to instructional materials – including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations. Students cannot copy, reproduce, display, or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording, or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
+
+### Support for Wellness and Mental Health
+Northwestern University is committed to supporting the wellness of our students. Student Affairs has multiple resources to support student wellness and mental health. If you are feeling distressed or overwhelmed, please reach out for help. Students can access confidential resources through the Counseling and Psychological Services (CAPS), Religious and Spiritual Life (RSL) and the Center for Awareness, Response and Education (CARE). All Northwestern students are also eligible to access support at no cost though TimelyCare, a virtual mental health platform that provides counseling, health coaching and 24/7 on-demand services.
+
+Additional information on the resources mentioned above can be found here:
+
+https://www.northwestern.edu/counseling/
+
+https://www.northwestern.edu/religious-life/
+
+https://www.northwestern.edu/care/
+
+https://www.northwestern.edu/studentaffairs/timelycare.html
